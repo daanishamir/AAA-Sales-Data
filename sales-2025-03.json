@@ -3,8 +3,8 @@
   "agents": [
     {
       "name": "Ali Raza",
-      "total_sales": 78.0,
-      "avg_sales": 1.25,
+      "total_sales": 108.0,
+      "avg_sales": 10.25,
       "working_days": 12,
       "days_on_zero": 1,
       "daily_sales": [
