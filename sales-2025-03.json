@@ -3,9 +3,9 @@
   "agents": [
     {
       "name": "Ali Raza",
-      "total_sales": 68.0,
-      "avg_sales": 4.25,
-      "working_days": 16,
+      "total_sales": 28.0,
+      "avg_sales": 1.25,
+      "working_days": 12,
       "days_on_zero": 1,
       "daily_sales": [
         null,
@@ -40,7 +40,7 @@
         null,
         null
       ],
-      "qa_issue": 5
+      "qa_issue": 1
     },
     {
       "name": "Hamza Iqbal",
