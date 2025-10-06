@@ -535,47 +535,6 @@
       "qa_issue": 0
     },
     {
-      "name": "Agent_Row_15",
-      "total_sales": 0.0,
-      "avg_sales": 0.0,
-      "working_days": 0,
-      "days_on_zero": 0,
-      "daily_sales": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "qa_issue": 0
-    },
-    {
       "name": "Muhammad Tayyab",
       "total_sales": 35.0,
       "avg_sales": 1.46,
@@ -906,3 +865,4 @@
   ]
 
 }
+
