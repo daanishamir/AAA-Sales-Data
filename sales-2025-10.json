@@ -534,47 +534,7 @@
       ],
       "qa_issue": 2
     },
-    {
-      "name": "Agent_Row_17",
-      "total_sales": 0.0,
-      "avg_sales": 0.0,
-      "working_days": 0,
-      "days_on_zero": 0,
-      "daily_sales": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "qa_issue": 0
-    },
+ 
     {
       "name": "Sheharyar",
       "total_sales": 19.0,
@@ -863,4 +823,5 @@
       "qa_issue": 0
     }
   ]
+
 }
